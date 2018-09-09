@@ -1,6 +1,6 @@
 # Assignment 4: Sharded Key/Value Service
-### Part A Due: Wednesday Nov 29, 11:59:59pm
-### Part B Due: Wednesday Dec 6, 11:59:59pm
+### Part A Due: Wednesday Nov 30, 11:59:59pm
+### Part B Due: Wednesday Dec 7, 11:59:59pm
 
 ### Introduction
 
