@@ -1,6 +1,6 @@
 # Assignment 3: Paxos-based Key/Value Service
-### Part A Due: Friday Oct 27, 11:59:59pm
-### Part B Due: Friday Nov 3, 11:59:59pm
+### Part A Due: Friday Nov 2, 11:59:59pm
+### Part B Due: Friday Nov 9, 11:59:59pm
 
 ### Introduction
 

@@ -1,5 +1,5 @@
 # Assignment 0: Collaboration Policy & Git
-### Due: Friday Sep 15, 11:59:59pm
+### Due: Friday Sep 14, 11:59:59pm
 
 ## Introduction
 
@@ -29,7 +29,7 @@ This assignment is mainly intended to emphasize the importance of the _no plagia
 
 ```bash
 $ cd ~
-$ git clone https://github.com/Columbia-COMS-4113-Fall-17/assignments-myusername.git 4113
+$ git clone https://github.com/Columbia-COMS-4113-Fall-18/assignments-myusername.git 4113
 $ ls 4113
 collaboration_policy.txt
 readme.md
